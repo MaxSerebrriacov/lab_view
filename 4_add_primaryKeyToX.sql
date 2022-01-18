@@ -1,0 +1,1 @@
+alter table "lab_view".fn add constraint pk_x primary key (x);

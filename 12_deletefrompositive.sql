@@ -1,0 +1,1 @@
+delete from positive where x > 2.0 and x < 8.0;

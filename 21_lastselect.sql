@@ -1,0 +1,1 @@
+select count(*), 'file' from fn_file union select count(*), 'mat. view' from fn_all;

@@ -1,0 +1,1 @@
+update positive set y = -y where y < 0.5;
